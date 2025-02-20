@@ -1,0 +1,2 @@
+;Net Ground Area;Roof Area;Floor Height;Number of Floors;Total Air Volume;Outerwall Area_0.0;Outerwall Area_180.0;Outerwall Area_270.0;Outerwall Area_90.0;Window Area_0.0;Window Area_180.0;Window Area_270.0;Window Area_90.0;Window-Wall-Ratio;Inner Wall Area;UValue Outerwall;UValue Innerwall;UValue Window;UValue Door;UValue Roof;UValue Ceiling;UValue Groundfloor;gValue Window
+TEASER;280,0;0;3,2;3;896,0;213,61;98,63;98,63;213,61;13,86;13,86;13,86;13,86;0,09;1120,0;0,53;0,85;7,02;6,12;0,38;1,67;0,59;0,75

@@ -1,0 +1,20 @@
+simulateModel("ArchetypeExample.OfficeBuilding.OfficeBuilding", method="Dassl", tolerance=0.0001, stopTime=31536000, resultFile="OfficeBuilding");
+createPlot(id=1, y={"multizone.PHeater[1]"});
+createPlot(id=2, y={"multizone.PCooler[1]"});
+createPlot(id=3, y={"multizone.TAir[1]"});
+createPlot(id=4, y={"multizone.PHeater[2]"});
+createPlot(id=5, y={"multizone.PCooler[2]"});
+createPlot(id=6, y={"multizone.TAir[2]"});
+createPlot(id=7, y={"multizone.PHeater[3]"});
+createPlot(id=8, y={"multizone.PCooler[3]"});
+createPlot(id=9, y={"multizone.TAir[3]"});
+createPlot(id=10, y={"multizone.PHeater[4]"});
+createPlot(id=11, y={"multizone.PCooler[4]"});
+createPlot(id=12, y={"multizone.TAir[4]"});
+createPlot(id=13, y={"multizone.PHeater[5]"});
+createPlot(id=14, y={"multizone.PCooler[5]"});
+createPlot(id=15, y={"multizone.TAir[5]"});
+createPlot(id=16, y={"multizone.PHeater[6]"});
+createPlot(id=17, y={"multizone.PCooler[6]"});
+createPlot(id=18, y={"multizone.TAir[6]"});
+
